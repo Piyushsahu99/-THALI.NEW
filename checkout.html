@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="check.css">
+    <meta charset="utf-8">
+    <title>Thali</title>
+</head>
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="logo.png" width="75px" height="75px">
+        </div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="sevices.html">Our Services</a></li>
+            <li><a href="schedule.html">Daily Schedule</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="cart.html">Cart</a></li>
+        </ul>
+    </nav>
+    <img src="thali1.png" width=100px ; >
+    <main>
+        <div class="checkout-container">
+            <section class="checkout">
+                <h2>Checkout</h2>
+                <!-- Include your checkout form elements here -->
+                <form id="checkout-form">
+                    <!-- Add your form fields for customer details, order summary, etc. -->
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    
+                    <!-- Add more form fields as needed -->
+
+                    <button type="button" onclick="placeOrder()">Place Order</button>
+                </form>
+            </section>
+
+            <section class="thank-you" style="display: none;">
+                <h2>Thank You for Your Order!</h2>
+                <p>Your order has been placed successfully.</p>
+            </section>
+        </div>
+    </main>
+
+    <script src="Thali.js"></script>
+    <script src="checks.js"></script>
+</body>
+</html>
+

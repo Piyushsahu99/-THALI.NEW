@@ -1,0 +1,22 @@
+/* ... (previous CSS styles) ... */
+
+/* Additional styles for new elements */
+main .checkout {
+    margin-top: 20px;
+}
+
+main .checkout button {
+    padding: 10px 15px;
+    background-color: #EB3E1D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+main .thank-you {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* ... (remaining CSS styles) ... */
