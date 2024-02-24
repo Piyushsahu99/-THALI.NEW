@@ -1,4 +1,4 @@
-# Thali
+# Thali https://piyushsahu99.github.io/-THALI.NEW/
 
 Welcome to Thali! Thali is a web platform dedicated to providing affordable and nutritious food options while combating food wastage. Our mission is to make a positive impact on society by offering homemade meals at affordable prices.
 
