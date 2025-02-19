@@ -22,6 +22,8 @@ Explore a live demo of Thali [here](https://youtu.be/-Wiybq36bV8?si=2m8ONJSNgqtQ
 
 ## Why Choose Thali?
 
+Here is my App Idea 💡 : https://youtube.com/shorts/2H1FvFjZ9ro?si=-FS3IN5c7VXeVyo1
+
 ### 1. Affordable and Convenient Daily Diet Options
 
 Thali offers specially curated, homemade meals that cater to your dietary needs, starting from just Rs. 50. Say goodbye to expensive restaurant bills and unhealthy fast food options. Thali ensures you receive wholesome meals at affordable prices, conveniently delivered right to your doorstep.
